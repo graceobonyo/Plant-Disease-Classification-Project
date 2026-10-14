@@ -1,4 +1,3 @@
-Copy and paste this directly into your README.md:
 
 # Plant Disease Classification Using Deep Learning
 
